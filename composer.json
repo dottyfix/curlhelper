@@ -1,0 +1,16 @@
+{
+  "name": "dottyfix/curlhelper",
+  "description": "Simple CURL Helper for PHP",
+  "autoload": {
+    "psr-4": {
+      "Dottyfix\\Tools\\CurlHelper\\": "/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.0"
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "minimum-stability": "stable"
+}
