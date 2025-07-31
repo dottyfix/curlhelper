@@ -3,7 +3,7 @@
   "description": "Simple CURL Helper for PHP",
   "autoload": {
     "psr-4": {
-      "Dottyfix\\Tools\\CurlHelper\\": "/"
+      "Dottyfix\\CurlHelper\\": "/"
     }
   },
   "require-dev": {
