@@ -1,5 +1,5 @@
 <?php
-namespace Dottyfix\Tools\CurlHelper;
+namespace Dottyfix\CurlHelper;
 
 class CurlHelper {
 	
